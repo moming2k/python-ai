@@ -1,0 +1,3 @@
+[submodule "example/deep-learning/week1/fast-style-transfer"]
+	path = example/deep-learning/week1/fast-style-transfer
+	url = https://github.com/lengstrom/fast-style-transfer.git
