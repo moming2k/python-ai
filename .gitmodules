@@ -4,3 +4,6 @@
 [submodule "example/deep-learning/week1/DeepLearningFlappyBird"]
 	path = example/deep-learning/week1/DeepLearningFlappyBird
 	url = https://github.com/yenchenlin/DeepLearningFlappyBird.git
+[submodule "example/deep-learning/week1/linear_regression_live"]
+	path = example/deep-learning/week1/linear_regression_live
+	url = https://github.com/llSourcell/linear_regression_live.git
