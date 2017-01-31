@@ -7,3 +7,6 @@
 [submodule "example/deep-learning/week1/linear_regression_live"]
 	path = example/deep-learning/week1/linear_regression_live
 	url = https://github.com/llSourcell/linear_regression_live.git
+[submodule "example/deep-learning/week1/DLND-your-first-network"]
+	path = example/deep-learning/week1/DLND-your-first-network
+	url = https://github.com/moming2k/DLND-your-first-network.git
