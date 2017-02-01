@@ -10,3 +10,6 @@
 [submodule "example/deep-learning/week1/DLND-your-first-network"]
 	path = example/deep-learning/week1/DLND-your-first-network
 	url = https://github.com/moming2k/DLND-your-first-network.git
+[submodule "example/deep-learning/ebook_for_python"]
+	path = example/deep-learning/ebook_for_python
+	url = https://github.com/moming2k/ebook_for_python.git
