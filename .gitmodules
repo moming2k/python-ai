@@ -19,3 +19,6 @@
 [submodule "example/deep-learning/week2/sentiment_network"]
 	path = example/deep-learning/week2/sentiment_network
 	url = https://github.com/moming2k/sentiment_network.git
+[submodule "example/deep-learning/week2/Handwritten-Digit-Recognition-with-TFLearn"]
+	path = example/deep-learning/week2/Handwritten-Digit-Recognition-with-TFLearn
+	url = https://github.com/moming2k/Handwritten-Digit-Recognition-with-TFLearn.git
