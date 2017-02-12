@@ -16,3 +16,6 @@
 [submodule "example/deep-learning/week1/week1-single-layer-neural-network"]
 	path = example/deep-learning/week1/week1-single-layer-neural-network
 	url = https://github.com/moming2k/week1-single-layer-neural-network.git
+[submodule "example/deep-learning/week2/sentiment_network"]
+	path = example/deep-learning/week2/sentiment_network
+	url = https://github.com/moming2k/sentiment_network.git
