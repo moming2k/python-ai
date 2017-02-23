@@ -25,3 +25,6 @@
 [submodule "example/deep-learning/week2/How_to_do_Sentiment_Analysis"]
 	path = example/deep-learning/week2/How_to_do_Sentiment_Analysis
 	url = https://github.com/moming2k/How_to_do_Sentiment_Analysis.git
+[submodule "example/deep-learning/week5/deep-learning"]
+	path = example/deep-learning/week5/deep-learning
+	url = https://github.com/udacity/deep-learning.git
