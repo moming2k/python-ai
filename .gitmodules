@@ -28,3 +28,6 @@
 [submodule "example/deep-learning/week5/deep-learning"]
 	path = example/deep-learning/week5/deep-learning
 	url = https://github.com/udacity/deep-learning.git
+[submodule "udacity"]
+	path = udacity
+	url = https://github.com/udacity/deep-learning.git
